@@ -1,6 +1,6 @@
-
-<h2 align="center">🍀To be <b>Android</b> developer using <b>Kotlin</b></h2>
-  
+<h2 align="center">
+To be <b>Android</b> developer using <b>Kotlin</b>
+</h2>
 <p align="center">
 안녕하세요, 안드로이드 개발자 최현정입니다.🙌</p>
 
@@ -14,7 +14,9 @@
 다양한 직종의 사람들과 <ins><b>소통, 협업</b></ins>하는 것을 좋아합니다!</p>
 
 <p align="center">
-  <a href=https://hits.seeyoufarm.com><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunjung-choi&count_bg=%23F3C9EE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"></a>
+<img src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white"/>
+<img src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white"/></br>
+<a href=https://hits.seeyoufarm.com><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunjung-choi&count_bg=%23F3C9EE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"></a>
 </p>
 
 <!--
