@@ -23,6 +23,10 @@
 <img src ="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 <img src ="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
 </br>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hyunjung)](https://solved.ac/hyunjung)
+</br>
 <a href=https://hits.seeyoufarm.com><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunjung-choi&count_bg=%23E3A6AE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"></a>
 </p>
 
