@@ -1,18 +1,19 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=e3a6ae&text=hyunjung-choi&fontAlignY=50&fontSize=70&height=250&animation=fadeIn&desc=To%20be%20Android%20developer%20using%20Kotlin&descAlignY=70) 
-
-<p align="center">
+![header](https://capsule-render.vercel.app/api?type=slice&color=e3a6ae&text=HyunJung%20Choi&fontAlignY=50&fontSize=70&height=250&animation=fadeIn&desc=Junior%20Android%20developer&descAlignY=70) 
+  
+<p>
 안녕하세요, 안드로이드 개발자 <ins><b>최현정</b></ins>입니다.🙌</p>
 
 <p align="center">
-<ins><b>새로운 기술</b></ins>을 익히는 것을 좋아하며,</p>
+<b>새로운 기술</b>을 익히는 것을 좋아하며, 어려운 문제를 접하더라고 <b>포기하지 않고</b></p>
 
 <p align="center">
-어려운 문제를 접하더라고 포기하지 않고 <ins><b>부족한 지식을 쌓아 정체되지 않는 개발자</b></ins>가 되고 싶습니다.</p>
+부족한 지식을 쌓아 <ins><b>정체되지 않는 개발자</b></ins>가 되고 싶습니다.</p>
 
 <p align="center">
 다양한 직종의 사람들과 <ins><b>소통, 협업</b></ins>하는 것을 좋아합니다!</p>
+</br>
 
 <p align="center">
 <img src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white"/>
