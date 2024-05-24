@@ -33,6 +33,10 @@
 
 </div>
 
+<a href="https://hyunjungchoi.tistory.com">
+  <img src="https://render.gitanimals.org/lines/hyunjung-choi?pet-id=22" width="1000" height="120"/>
+</a>
+
 <!--
 **hyunjung-choi/hyunjung-choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
