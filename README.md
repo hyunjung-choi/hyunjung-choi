@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=e3a6ae&text=HyunJung%20Choi&fontAlignY=50&fontSize=70&height=250&animation=fadeIn&desc=Junior%20Android%20developer&descAlignY=70) 
+![header](https://capsule-render.vercel.app/api?type=slice&color=e3a6ae&text=HyunJung%20Choi&fontAlignY=50&fontSize=70&height=250&animation=fadeIn&desc=Junior%20Android%20Developer&descAlignY=70) 
   
 <p>
 안녕하세요, 안드로이드 개발자 <ins><b>최현정</b></ins>입니다.🙌</p>
@@ -16,13 +16,21 @@
 </br>
 
 <p align="center">
+<img src ="https://img.shields.io/badge/ufintech%20hub-7048E8.svg?style=for-the-badge&logo=pr.co&logoColor=white"/>
+</br>
+</br>
 <img src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white"/>
 <img src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white"/>
-<img src ="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+<img src ="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</br>
+<img src ="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=white"/>
+<img src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+<img src ="https://img.shields.io/badge/.net-%23ED8B00.svg?style=for-the-badge&logo=.net&logoColor=white"/>
 </br>
 <img src ="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <img src ="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 <img src ="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+<img src ="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 </br>
 
 [![Solved.ac
