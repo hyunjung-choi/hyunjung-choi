@@ -39,17 +39,23 @@
 <a href=https://hits.seeyoufarm.com><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunjung-choi&count_bg=%23E3A6AE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"></a>
 </p>
 
-</div>
-
-<p align="center">
+<p>
   <a href="https://hyunjungchoi.tistory.com">
     <img
       src="https://render.gitanimals.org/lines/hyunjung-choi?pet-id=581688451884332795"
-      width="600"
+      width="49%"
       height="120"
-    />
-  </a>
+    /></a>
+  
+  <a href="https://www.linkedin.com/in/hjchoidev/">
+    <img
+      src="https://render.gitanimals.org/lines/hyunjung-choi?pet-id=588383017790335273"
+      width="45%"
+      height="120"
+    /></a>
 </p>
+
+</div>
 
 <!--
 **hyunjung-choi/hyunjung-choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
