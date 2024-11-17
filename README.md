@@ -40,16 +40,23 @@
   <a href="https://hyunjungchoi.tistory.com">
     <img
       src="https://render.gitanimals.org/lines/hyunjung-choi?pet-id=581688451884332795"
-      width="49%"
+      width="30%"
       height="120"
     /></a>
   
   <a href="https://www.linkedin.com/in/hjchoidev/">
     <img
       src="https://render.gitanimals.org/lines/hyunjung-choi?pet-id=588383017790335273"
-      width="45%"
+      width="30%"
       height="120"
     /></a>
+
+  <a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/hyunjung-choi?pet-id=645918070919134580"
+    width="30%"
+    height="120"
+  /></a>
 </p>
 
 </div>
