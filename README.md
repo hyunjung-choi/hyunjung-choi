@@ -53,7 +53,7 @@
 
   <a href="https://www.linkedin.com/in/hjchoidev">
   <img
-    src="https://render.gitanimals.org/lines/hyunjung-choi?pet-id=645918070919134580"
+    src="https://render.gitanimals.org/lines/hyunjung-choi?pet-id=646586397857404198"
     width="30%"
     height="120"
   /></a>
