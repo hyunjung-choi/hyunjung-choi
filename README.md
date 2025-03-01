@@ -37,21 +37,21 @@
 </p>
 
 <p>
-  <a href="#">
+  <a href="#" onclick="alert('꽥꽥🦆'); return false;">
     <img
       src="https://render.gitanimals.org/lines/hyunjung-choi?pet-id=581688451884332795"
       width="30%"
       height="120"
     /></a>
   
-  <a href="#">
+  <a href="#" onclick="alert('삐약🐥'); return false;">
     <img
       src="https://render.gitanimals.org/lines/hyunjung-choi?pet-id=588383017790335273"
       width="30%"
       height="120"
     /></a>
 
-  <a href="#">
+  <a href="#" onclick="alert('옴뇸뇸🐹'); return false;">
   <img
     src="https://render.gitanimals.org/lines/hyunjung-choi?pet-id=646586397857404198"
     width="30%"
