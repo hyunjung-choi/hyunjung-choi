@@ -37,21 +37,21 @@
 </p>
 
 <p>
-  <a href="https://hyunjungchoi.notion.site/dd225ef504a14bedb1fc73ae921a21ae">
+  <a href="#">
     <img
       src="https://render.gitanimals.org/lines/hyunjung-choi?pet-id=581688451884332795"
       width="30%"
       height="120"
     /></a>
   
-  <a href="https://hyunjungchoi.tistory.com">
+  <a href="#">
     <img
       src="https://render.gitanimals.org/lines/hyunjung-choi?pet-id=588383017790335273"
       width="30%"
       height="120"
     /></a>
 
-  <a href="https://www.linkedin.com/in/hjchoidev">
+  <a href="#">
   <img
     src="https://render.gitanimals.org/lines/hyunjung-choi?pet-id=646586397857404198"
     width="30%"
