@@ -33,7 +33,7 @@
   </tr>
   <tr>
     <td>🌍</td>
-    <td>Opensource Contribution -</br>Euphony 🎶, Avalonia 🖥️, FlowOperator🌊...</td>
+    <td>Opensource Contribution -</br>Euphony 🎶, Avalonia 🖥️, FlowOperators🌊...</td>
   </tr>
   <tr>
     <td>👩‍💻</td>
