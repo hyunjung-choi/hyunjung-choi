@@ -51,6 +51,10 @@
     <td>☃️</td>
     <td>SeSAC 생존 코딩 겨울 특강</td>
   </tr>
+  <tr>
+    <td>❤️</td>
+    <td>IT 커뮤니티 Prography 10기</td>
+  </tr>
 </table>
 </br>
 
