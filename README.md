@@ -55,6 +55,10 @@
     <td>❤️</td>
     <td>IT 커뮤니티 Prography 10기</td>
   </tr>
+  <tr>
+    <td>🦁</td>
+    <td>멋쟁이사자처럼 안드로이드 부트캠프 TA</td>
+  </tr>
 </table>
 </br>
 
