@@ -19,10 +19,10 @@
 <h3>📖 Learning Experience</h3>
 
 <table>
-  <tr>
+  <!-- <tr>
     <td>🐥</td>
     <td>2년차 안드로이드 개발자</td>
-  </tr>
+  </tr> -->
   <tr>
     <td>🎓</td>
     <td>한양대학교 ERICA 소프트웨어학부 졸업</td>
