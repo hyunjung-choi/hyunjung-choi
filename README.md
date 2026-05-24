@@ -59,6 +59,10 @@
     <td>🦁</td>
     <td>멋쟁이사자처럼 안드로이드 부트캠프 TA</td>
   </tr>
+  <tr>
+    <td>💜</td>
+    <td>Kotlin Foundation - </br>Kotlin Ecosystem Mentorship Program</td>
+  </tr>
 </table>
 </br>
 
