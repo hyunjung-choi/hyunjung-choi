@@ -1,28 +1,43 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=e3a6ae&text=HyunJung%20Choi&fontAlignY=50&fontSize=70&height=250&animation=fadeIn&desc=Junior%20Android%20Developer&descAlignY=70) 
-  
-<p>
-안녕하세요, 안드로이드 개발자 <ins><b>최현정</b></ins>입니다.🙌</p>
 
-<p align="center">
-<b>새로운 기술</b>을 익히는 것을 좋아하며,✍️</p>
+<div align="center">
+  <h3>👩‍💻 About Me</h3>
 
-<p align="center">
-어려운 문제를 접하더라고 <b>포기하지 않고</b> 부족한 지식을 쌓는 <ins><b>정체되지 않는 개발자</b></ins>입니다.</p>
+  <p>
+    안녕하세요, 안드로이드 개발자 <b>최현정</b>입니다. 👋
+  </p>
 
-<p align="center">
-다양한 직종의 사람들과 <b>소통, 협업</b>하는 것을 좋아해서, 꾸준한 <b>커뮤니티 활동으로 성장</b>하고 있습니다!</p>
-</br>
+  <p>
+    다양한 협업과 커뮤니티 활동을 통해<br>
+    <b>빠른 적응력</b>과 <b>문제 해결력</b>을 갖추었습니다.
+  </p>
+
+  <br>
+
+  <table>
+    <tr>
+      <td align="left">
+        <p>
+          🌱 글로벌 송금 앱 등 <b>실서비스 개발 경험</b>이 있는 안드로이드 개발자입니다.
+        </p>
+        <p>
+          💡 <b>새로운 기술</b>을 배우는 것을 즐기며, 어려운 문제도 <b>끝까지 해결</b>하고자 노력합니다.
+        </p>
+        <p>
+          🤝 다양한 직군과의 <b>소통과 협업</b>을 즐기며, 꾸준한 커뮤니티 활동을 통해 성장하고 있습니다.
+        </p>
+      </td>
+    </tr>
+  </table>
+
+<br>
 
 <p align="center">
 <h3>📖 Learning Experience</h3>
 
 <table>
-  <!-- <tr>
-    <td>🐥</td>
-    <td>2년차 안드로이드 개발자</td>
-  </tr> -->
   <tr>
     <td>🎓</td>
     <td>한양대학교 ERICA 소프트웨어학부 졸업</td>
@@ -33,11 +48,11 @@
   </tr>
   <tr>
     <td>🌍</td>
-    <td>Opensource Contribution -</br>Euphony 🎶, FlowOperators🌊, Pokedex🗡️...</td>
+    <td>Opensource Contribution -</br><a href="https://github.com/euphony-io/euphony">Euphony</a>🎶, <a href="https://github.com/skydoves/flow-operators">Flow Operators</a>🌊, <a href="https://github.com/skydoves/pokedex-compose">Pokedex</a>🗡️, <a href="https://github.com/easyhooon/dari">Dari</a>🌉...</td>
   </tr>
   <tr>
     <td>👩‍💻</td>
-    <td>IT 연합동아리 디프만 9기, 12기</strong></td>
+    <td>IT 연합동아리 디프만 9기, 12기</td>
   </tr>
   <tr>
     <td>💚</td>
@@ -63,8 +78,13 @@
     <td>💜</td>
     <td>Kotlin Foundation - </br>Kotlin Ecosystem Mentorship Program</td>
   </tr>
+  <tr>
+    <td>💊</td>
+    <td>OpenAI × 잇츠 스터디 5기</td>
+  </tr>
 </table>
-</br>
+
+<br>
 
 <h3>🛠️ Tech Stack</h3>
 <img src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white"/>
@@ -80,15 +100,15 @@
 <img src ="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <img src ="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 <img src ="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-</br>
-</br>
+<br>
+<br>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hyunjung)](https://solved.ac/hyunjung)
 </br>
 <!--
 <a href=https://hits.seeyoufarm.com><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunjung-choi&count_bg=%23E3A6AE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"></a>
-->
+-->
 </p>
 
 <p>
