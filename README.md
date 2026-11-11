@@ -9,6 +9,8 @@
     안녕하세요, 안드로이드 개발자 <b>최현정</b>입니다. 👋
   </p>
 
+  <br>
+
   <p>
     다양한 협업과 커뮤니티 활동을 통해<br>
     <b>빠른 적응력</b>과 <b>문제 해결력</b>을 갖추었습니다.
@@ -110,6 +112,8 @@
 <a href=https://hits.seeyoufarm.com><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunjung-choi&count_bg=%23E3A6AE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"></a>
 -->
 </p>
+
+<br>
 
 <p>
   <a href="#">
